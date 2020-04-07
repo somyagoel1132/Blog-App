@@ -1,0 +1,73 @@
+ body{
+   background-image: url(https://elvirainfotech.com/wp-content/uploads/2019/08/blog-hero-background.jpg);
+ }
+ 
+ .navfont{
+    font-family: 'Comic Neue', sans-serif;
+    font-size: 1.5em ;
+    margin-bottom: 10px;
+ }
+
+ .bigbrand{
+    font-size: 1.5em ;  
+ }
+ .jumbotron{
+   background: none;
+ }
+ .comment,.pub{
+   color: black;
+ }
+
+ 
+
+ .centerstage{
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+ .postdate{
+   text-align: center;
+ }
+
+ .posttitle{
+  font-family: 'Comic Neue', sans-serif;
+  font-size: 3em ; 
+  text-align: center;
+ }
+
+ .postcontent{
+   font-family: 'Cookie', cursive;
+   font-size: 1.5em ; 
+
+ }
+
+ .btn-comment{
+   position: absolute;
+   right: 0px;
+ }
+/* text colour change */
+
+
+.posttitle{
+  text-align: center;
+  -webkit-animation: example 5s infinite alternate;
+}
+
+@-webkit-keyframes example {
+  0%   {color: purple;}
+  25%  {color: brown;}
+  50%  {color: darkslategray;}
+  100% {color:darkgreen;}
+}
+
+.title{
+  text-align: center;
+  -webkit-animation: example 5s infinite alternate;
+}
+
+@-webkit-keyframes example {
+  0%   {color: purple;}
+  25%  {color: brown;}
+  50%  {color: darkslategray;}
+  100% {color:darkgreen;}
+}
